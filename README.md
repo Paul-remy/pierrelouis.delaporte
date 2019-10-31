@@ -1,3 +1,0 @@
-# pierrelouis.delaporte
-
-test readme
